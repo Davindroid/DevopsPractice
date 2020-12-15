@@ -5,7 +5,7 @@
 # check new CI
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
