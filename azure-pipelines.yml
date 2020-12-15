@@ -23,7 +23,8 @@ steps:
 - task: CopyFiles@2
   inputs:
     Contents: '**/.war'
-    TargetFolder: '/home/vsts/work/1/a'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+
 
 - task: PublishPipelineArtifact@1
   inputs:
