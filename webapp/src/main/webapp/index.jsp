@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>Haryanvi Community Ottawa</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -123,8 +123,8 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
-  <p>A <b>responsive</b> website created by me.</p>
+  <h1>Welcome to Haryanvi Community of Ottawa</h1>
+  <p>A <b>community</b> website created by Davinder.</p>
 </div>
 
 <div class="navbar">
@@ -147,11 +147,11 @@ body {
     <div class="fakeimg" style="height:60px;">Image</div>
   </div>
   <div class="main">
-    <h2>TITLE HEADING</h2>
-    <h5>Title description, Dec 7, 2017</h5>
+    <h2>Our Purpose</h2>
+    <h5>Title description, Dec 17, 2020</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
     <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>Haryana is one of the 28 states in India, located in the northern part of the country. It was carved out of the former state of East Punjab on 1 November 1966 on a linguistic basis. It is ranked 22nd in terms of area, with less than 1.4% (44,212 km or 17,070 sq mi) of India's land area.</p>
     <br>
     <h2>TITLE HEADING</h2>
     <h5>Title description, Sep 2, 2017</h5>
