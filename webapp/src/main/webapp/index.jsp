@@ -162,7 +162,7 @@ body {
 </div>
 
 <div class="footer">
-  <h2>Footer</h2>
+  <h2>COntact details</h2>
 </div>
 
 </body>
